@@ -72,5 +72,5 @@ function quiz() {
 // initailaizing welcome function
 welcome();
 
-// initailizing quiz function
+// initailizing/calling quiz function
 quiz();
